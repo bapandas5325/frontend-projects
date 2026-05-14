@@ -177,7 +177,7 @@ function App() {
           </div>
 
           <div style={styles.sub}>
-            🛡️ Developed & Supervised by SSP
+            🛡️ Developed & Supervised B.Das
             (North Zone)
           </div>
         </div>
