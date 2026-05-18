@@ -2,7 +2,7 @@
 
 A lightweight and scalable **RSS-based news monitoring system** designed for real-time tracking, filtering, and classification of news data for **cyber cells, incident monitoring teams, research, and analysis units**.
 
-This system focuses on **fast RSS ingestion, keyword-based matching, and structured news categorization with real-time dashboard visibility**.
+This system focuses on **fast RSS ingestion, keyword-based matching, structured news categorization, and real-time dashboard visibility**.
 
 ---
 
@@ -13,6 +13,14 @@ This system focuses on **fast RSS ingestion, keyword-based matching, and structu
 - Continuous polling for near real-time updates
 - XML parsing and normalization of news content
 - Structured extraction of title, description, source, timestamp, and news type
+
+---
+
+### 🌍 World News Mode
+- Dedicated mode for **global news monitoring**
+- Separate filtering for international news sources
+- Helps distinguish **local (India-focused) vs global incidents**
+- Useful for geopolitical, global cyber, and international updates tracking
 
 ---
 
@@ -55,6 +63,7 @@ Supports fast retrieval of recent and historical data.
 
 ### 📊 Dashboard Features
 - 📡 Live news feed updates  
+- 🌍 World / Local mode switching  
 - 🏷️ Category filtering (Crime / Political / Jobs / Entertainment)  
 - 🗺️ State-wise filtering  
 - 📍 District-level filtering (where available)  
@@ -77,6 +86,6 @@ Supports fast retrieval of recent and historical data.
 
 ## 🧠 Project Summary
 
-A real-time RSS monitoring system designed for structured news ingestion, classification, and filtering to support **incident monitoring and analysis workflows**.
+A real-time RSS monitoring system designed for structured news ingestion, classification, and filtering to support **incident monitoring and analysis workflows**, with support for both **local and global news tracking modes**.
 
 ---
