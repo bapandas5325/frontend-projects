@@ -17,10 +17,22 @@ This system focuses on **fast RSS ingestion, keyword-based matching, structured 
 ---
 
 ### 🌍 World News Mode
-- Dedicated mode for **global news monitoring**
+- Dedicated mode for global news monitoring
 - Separate filtering for international news sources
-- Helps distinguish **local (India-focused) vs global incidents**
-- Useful for geopolitical, global cyber, and international updates tracking
+- Helps distinguish local vs global incidents
+- Useful for geopolitical and cyber intelligence tracking
+
+---
+
+### 🧠 Advanced Keyword Intelligence System
+- Supports **10,000+ keyword database**
+- Includes:
+  - Crime-related keywords
+  - Political keywords
+  - Cyber incident terms
+  - Job / recruitment keywords
+  - Entertainment keywords
+- Optimized for large-scale real-time matching
 
 ---
 
@@ -42,9 +54,13 @@ News is categorized using deterministic rules:
 
 ### 🗺️ Location Tagging System
 - State-level tagging (e.g., West Bengal, Maharashtra)
-- District-level detection (when available in RSS text)
-- Rule-based keyword mapping system
-- Enables region-specific monitoring and filtering
+- District-level detection for **all major states**
+- Includes mapping of:
+  - Districts
+  - Big cities
+  - Local news channels / sources
+- Rule-based keyword + context mapping system
+- Enables precise regional monitoring and filtering
 
 ---
 
@@ -66,7 +82,8 @@ Supports fast retrieval of recent and historical data.
 - 🌍 World / Local mode switching  
 - 🏷️ Category filtering (Crime / Political / Jobs / Entertainment)  
 - 🗺️ State-wise filtering  
-- 📍 District-level filtering (where available)  
+- 📍 District & city-level filtering  
+- 📡 Local news channel/source tagging support  
 - ⏱️ Time-range filtering  
 - 🔄 Manual refresh button  
 - 📌 Highlighted important incidents  
@@ -86,6 +103,10 @@ Supports fast retrieval of recent and historical data.
 
 ## 🧠 Project Summary
 
-A real-time RSS monitoring system designed for structured news ingestion, classification, and filtering to support **incident monitoring and analysis workflows**, with support for both **local and global news tracking modes**.
+A real-time RSS monitoring system designed for structured news ingestion, classification, and filtering to support **incident monitoring and analysis workflows**, with strong support for:
+
+- 🌍 Global + Local news tracking  
+- 🏙️ State, district, and city-level intelligence mapping  
+- ⚡ High-speed keyword-based matching (10,000+ keywords)
 
 ---
